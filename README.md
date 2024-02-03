@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
-<h3 align="center">A passionate Data Analyst from New Delhi, India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=da-nikhilyadav&label=Profile%20views&color=0e75b6&style=flat" alt="da-nikhilyadav" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=F7AA94&lines=Hi+%F0%9F%91%8B+It's+Nikhil_Yadav;I'm+a+Data+Analyst)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🧑‍💻  [**Nikhil Yadav**](www.linkedin.com/in/nikhilyadav-dataanalyst/)<br>🥇  B.B.A in **Finance** | Arni University 2012-15<img align="right" alt="Coding" width="300" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif"><br>🎯  Goal-oriented<br>🤓  Optimistic<br>🤝 
