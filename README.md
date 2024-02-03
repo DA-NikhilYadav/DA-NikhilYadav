@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center">A passionate Data Analyst from New Delhi, India</h3>
-<img align="right" alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=da-nikhilyadav&label=Profile%20views&color=0e75b6&style=flat" alt="da-nikhilyadav" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, AI**
+# 💫 About Me:
+🧑‍💻  [**Nikhil Yadav**](www.linkedin.com/in/nikhilyadav-dataanalyst/)<br>🥇  B.B.A in **Finance** | Arni University 2012-15<img align="right" alt="Coding" width="300" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif"><br>🎯  Goal-oriented<br>🤓  Optimistic<br>🤝 
+Glad to connect with any Data Enthusiasts<br>📞  + 91-9999981976 | Whatsapp | New Delhi . India<br>📩   Nikhilyadav0536@gmail.com <br>🧫  **Fun Fact ->** Astutely Easygoing<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="90" />
+
+ ***<ul align="center">DATA IS A TOOL FOR ENHANCING INTUITION</ul>***<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/DA-NikhilYadav/](https://github.com/DA-NikhilYadav/)
 
 - 💬 Ask me about **SQL, Power BI, Python, Advance Excel, Statistics**
 
 - 📫 How to reach me **Nikhilyadav0536@gmail.com**
-
-- ⚡ Fun fact **Astutely Easygoing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
