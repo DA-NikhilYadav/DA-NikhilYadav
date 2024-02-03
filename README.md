@@ -25,6 +25,8 @@ Glad to connect with any Data Enthusiasts<br>📞  + 91-9999981976 | Whatsapp | 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=da-nikhilyadav&show_icons=true&locale=en" alt="da-nikhilyadav" /></p>
 
+[![](https://visitcount.itsvg.in/api?id=DA-NikhilYadav&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 <hr>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
