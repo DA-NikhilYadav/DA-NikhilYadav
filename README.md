@@ -10,8 +10,6 @@ Glad to connect with any Data Enthusiasts<br>📞  + 91-9999981976 | Whatsapp | 
 
 - 💬 Ask me about **SQL, Power BI, Python, Advance Excel, Statistics**
 
-- 📫 How to reach me **Nikhilyadav0536@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikhilyadav-dataanalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilyadav-dataanalyst" height="30" width="40" /></a>
